@@ -35,6 +35,7 @@ body{font-family:Georgia, 'Times New Roman', Times, serif;
 }
 .cadrastro{
   border-radius: 5px;
-  margin-left: 50px;
+  margin-left: 62px;
   margin-top: 10px;
+  background-color: blue;
 }
